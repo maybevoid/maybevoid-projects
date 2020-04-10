@@ -1,0 +1,12 @@
+[submodule "nix"]
+	path = nix
+	url = git@github.com:maybevoid/maybevoid-nix.git
+[submodule "quasi-params"]
+	path = quasi-params
+	url = git@github.com:maybevoid/quasi-params.git
+[submodule "casimir"]
+	path = casimir
+	url = git@github.com:maybevoid/casimir.git
+[submodule "dabble"]
+	path = dabble
+	url = git@github.com:maybevoid/dabble.git

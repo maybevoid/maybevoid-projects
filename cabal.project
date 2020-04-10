@@ -1,0 +1,5 @@
+packages:
+  casimir/casimir
+  quasi-params/quasi-params
+
+write-ghc-environment-files: never
